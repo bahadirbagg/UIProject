@@ -44,7 +44,7 @@ function Menu() {
                 </button>
               </tr>
               <tr>
-                <button className="flex items-center items-center no-underline text-lg cursor-pointer p-1 text-black-300  font-normal hover:text-blue-800">
+                <button className="flex items-center no-underline text-lg cursor-pointer p-1 text-black-300  font-normal hover:text-blue-800">
                   <AiOutlineCloseCircle size={20} className="mr-2" /> Logout
                 </button>
               </tr>
