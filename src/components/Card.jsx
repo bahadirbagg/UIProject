@@ -1,8 +1,4 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import { FiUsers } from "react-icons/fi";
-import { IoLocationSharp } from "react-icons/io5";
-import { RiSettings5Line } from "react-icons/ri";
-import { AiOutlineCloseCircle } from "react-icons/ai";
 import { IoEllipsisHorizontal } from "react-icons/io5";
 import { GoPrimitiveDot } from "react-icons/go";
 
